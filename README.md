@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello,%20I'm%20reewhy👋&section=header&reversal=false"/>
 </p>
 <h3 align="center">A passionate junior developer working with Python, Vue, Tailwind, Kotlin, and Java.</h3>
 
