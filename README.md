@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm reewhy</h1>
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi 👋, I'm reewhy%20render&fontSize=90" />
 <h3 align="center">A passionate junior developer working with Python, Vue, Tailwind, Kotlin, and Java.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reewhy&label=Profile%20views&color=0e75b6&style=flat" alt="reewhy" /> </p>
