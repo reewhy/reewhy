@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm reewhy</h1>
-<img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 <h3 align="center">A passionate junior developer working with Python, Vue, Tailwind, Kotlin, and Java.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reewhy&label=Profile%20views&color=0e75b6&style=flat" alt="reewhy" /> </p>
