@@ -23,7 +23,7 @@
     "Game Development",
     "Android Development"
   ]
-  "🔭 currently_working": "Eoloventuri Project",
+  "🔭 currently_working": "Mediaplayer Project",
   "🌱 currently_learning": ["C++", "OpenGL"]
 }
 ```
