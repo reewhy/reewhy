@@ -12,7 +12,7 @@
   "👤 name": "Luca Moretti",
   "🧭 located_in": "Bitonto, Bari",
   "🏫 education" : [
-    "Italian High School Diploma, Technical Insitute in Industrial and Computer Science, Bitonto, 2025",
+    "Italian High School Diploma, Technical Insitute in Industrial and Computer Science, 2025",
     "Cisco Networking Academy - Python Essentials (Issued: 2024)",
     "Cisco Networking Academy - JavaScript Essentials (Issued: 2025)",
     "Cisco Networking Academy - Ethical Hacking (Issued: 2025)"
