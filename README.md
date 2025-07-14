@@ -10,7 +10,6 @@
 ```json
 {
   "👤 name": "Luca Moretti",
-  "🧭 located_in": "Bitonto, Bari",
   "🏫 education" : [
     "Italian High School Diploma, Technical Insitute in Industrial and Computer Science, 2025",
     "Cisco Networking Academy - Python Essentials (Issued: 2024)",
